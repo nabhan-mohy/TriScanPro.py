@@ -13,6 +13,7 @@ TriScanPro is a powerful multi-tool scanner for web and network security. It com
 
 ### Prerequisites:
 Make sure **nmap**, **gobuster**, and **nikto** are installed on your machine. You can install them using:
+![image](https://github.com/user-attachments/assets/5700d9e0-1791-48ee-9fa9-54d990706ba5)
 
 ```bash
 sudo apt update
@@ -29,7 +30,4 @@ To enhance your **GitHub** post with a screenshot:
 1. Upload the screenshot to the repository. For example, place it in an `images/` folder.
 2. Link to the screenshot in the `README.md` using Markdown syntax like this:
 
-```markdown
-![TriScanPro Screenshot](images/triScanPro_output.png)
-![image](https://github.com/user-attachments/assets/c7a421d2-4981-41db-ba94-46e65f21e558)
-
+```markdown)
